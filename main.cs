@@ -6,6 +6,6 @@ class GFG {
     public static void Main(String[] args)
     {
 
-        Console.WriteLine("Main Method");
+        Console.WriteLine("Main Method")
     }
 }
